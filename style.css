@@ -1,5 +1,5 @@
 body {
-    background: #201F1F;
+    background: linear-gradient(#585757, #201F1F,#585757) ;
     color: aliceblue;
     margin-top: 5rem;
 }

@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background: #201F1F;
     color: aliceblue;
     margin-top: 5rem;
 }
@@ -12,18 +12,18 @@ body {
 }
 
 .accordion-button {
-    background: black;
+    background: #201F1F;
     color: aliceblue;
     border: 1px solid aliceblue;
 }
 
 .accordion-button:focus, .accordion-button:active {
-    background: black;
+    background: #201F1F;
     color: aliceblue;
 }
 
 .accordion-body {
-    background: black;
+    background: #201F1F;
     color: aliceblue;
 }
 
@@ -37,6 +37,21 @@ p {
     margin-bottom: -2px;
 }
 
+.playlist {
+    margin: 6rem;
+}
+
+.setlist {
+    margin-top: 3rem;
+    gap: 5rem;
+}
+
+.img-spot {
+    width: 100px;
+    border: 1px solid aliceblue;
+    border-radius: 50%;
+}
+
 
 footer {
     margin-top: 15rem;
@@ -48,3 +63,4 @@ footer {
 a {
     color: aliceblue;
 }
+

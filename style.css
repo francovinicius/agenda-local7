@@ -16,7 +16,7 @@ body {
     color: aliceblue;
 }
 
-.accordion-button:focus {
+.accordion-button:focus, .accordion-button:active {
     background: black;
     color: aliceblue;
 }

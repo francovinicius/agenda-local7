@@ -1,0 +1,49 @@
+body {
+    background: black;
+    color: aliceblue;
+    margin-top: 5rem;
+}
+
+.accordion {
+    margin-top: 5rem;
+    width: 80%;
+    border: 1px solid aliceblue;
+    border-radius: 5px;
+}
+
+.accordion-button {
+    background: black;
+    color: aliceblue;
+}
+
+.accordion-button:focus {
+    background: black;
+    color: aliceblue;
+}
+
+.accordion-body {
+    background: black;
+    color: aliceblue;
+}
+
+.titulo {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    font-size: 16px;
+}
+
+p {
+    margin-bottom: -2px;
+}
+
+
+footer {
+    margin-top: 15rem;
+    margin-bottom: 1rem;
+    border-top: 1px solid rgb(64, 67, 70);
+    padding-top: 1rem;
+}
+
+a {
+    color: aliceblue;
+}

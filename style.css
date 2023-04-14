@@ -1,11 +1,21 @@
 body {
-    background: linear-gradient(#585757, #201F1F,#585757) ;
+    background: linear-gradient(#585757, #201F1F,#201F1F, #201F1F,#CA4340) ;
     color: aliceblue;
     margin-top: 5rem;
 }
 
+h1 {
+    font-size: 64px;
+    margin-bottom: -.5rem;
+}
+
+h2 {
+    font-size: 30px;
+    margin-bottom: 5rem;
+}
+
 .accordion {
-    margin-top: 5rem;
+    margin-top: 1rem;
     width: 80%;
     border: 1px solid aliceblue;
     border-radius: 5px;
@@ -54,7 +64,7 @@ p {
 
 
 footer {
-    margin-top: 15rem;
+    margin-top: 20rem;
     margin-bottom: 1rem;
     border-top: 1px solid rgb(64, 67, 70);
     padding-top: 1rem;

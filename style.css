@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(#585757, #201F1F,#201F1F, #201F1F,#CA4340) ;
+    background: linear-gradient(#201F1F,#201F1F, #201F1F,#CA4340) ;
     color: aliceblue;
     margin-top: 5rem;
 }
@@ -7,11 +7,13 @@ body {
 h1 {
     font-size: 64px;
     margin-bottom: -.5rem;
+    font-weight: bold;
 }
 
 h2 {
     font-size: 30px;
     margin-bottom: 5rem;
+    font-weight: bold;
 }
 
 .accordion {
